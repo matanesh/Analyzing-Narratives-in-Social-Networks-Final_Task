@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    216626,       3458]
-NotebookOptionsPosition[    214459,       3417]
-NotebookOutlinePosition[    214888,       3433]
-CellTagsIndexPosition[    214845,       3430]
+NotebookDataLength[    216995,       3468]
+NotebookOptionsPosition[    214732,       3426]
+NotebookOutlinePosition[    215161,       3442]
+CellTagsIndexPosition[    215118,       3439]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3413,7 +3413,16 @@ Cell[BoxData[
    ",", "\<\"Hope van Dyne\"\>", ",", "\<\"Luis\"\>"}], "}"}]], "Output",
  CellChangeTimes->{{3.871899125438894*^9, 3.871899140153449*^9}},
  CellLabel->"Out[61]=",ExpressionUUID->"b4a4ffeb-d2f8-45b8-8994-b70d7d8c4a39"]
-}, Open  ]]
+}, Open  ]],
+
+Cell[BoxData[
+ StyleBox[
+  RowBox[{
+   RowBox[{"q", " ", "5"}], "-", "8"}], "Subsubsection",
+  FontVariations->{"Underline"->True}]], "Input",
+ CellChangeTimes->{{3.871952979243593*^9, 
+  3.8719529886758003`*^9}},ExpressionUUID->"51d55c9e-03bc-46db-99ef-\
+0540fe351925"]
 },
 WindowSize->{1053.4153846153847`, 526.7076923076924},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
@@ -3441,7 +3450,7 @@ Cell[2168, 60, 1418, 23, 90, "Output",ExpressionUUID->"7ed18b7c-0e0d-414f-9f46-5
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[3623, 88, 403, 10, 28, "Input",ExpressionUUID->"30ac66cf-fb69-4bd8-9212-6711833342d1"],
-Cell[4029, 100, 3226, 82, 175, "Output",ExpressionUUID->"7d232ce5-2b46-4535-bc4e-10239050719c"]
+Cell[4029, 100, 3226, 82, 128, "Output",ExpressionUUID->"7d232ce5-2b46-4535-bc4e-10239050719c"]
 }, Open  ]],
 Cell[7270, 185, 306, 7, 28, "Input",ExpressionUUID->"b2fa9ffe-e992-4d28-a7bd-116e048ef368"],
 Cell[7579, 194, 1028, 32, 48, "Input",ExpressionUUID->"40e7114f-898a-4e36-b2bf-a462467182d4"],
@@ -3459,7 +3468,8 @@ Cell[208887, 3275, 3983, 97, 185, "Output",ExpressionUUID->"eeef97f2-f964-4ef6-8
 Cell[CellGroupData[{
 Cell[212907, 3377, 1224, 30, 67, "Input",ExpressionUUID->"fe0aa256-d87b-477f-b729-ab5b8a1a00ab"],
 Cell[214134, 3409, 309, 5, 32, "Output",ExpressionUUID->"b4a4ffeb-d2f8-45b8-8994-b70d7d8c4a39"]
-}, Open  ]]
+}, Open  ]],
+Cell[214458, 3417, 270, 7, 36, "Input",ExpressionUUID->"51d55c9e-03bc-46db-99ef-0540fe351925"]
 }
 ]
 *)
