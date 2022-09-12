@@ -3,8 +3,8 @@
 import csv
 
 THIEF_WORDS = [
-"burglarize", "knock over", "rob"
-"loot", "pillage", "plunder" ,"sack"
+"burglarize", "knock over", "rob",
+"loot", "pillage", "plunder" ,"sack",
 "carjack", "hijack",
 "pick", "rifle",
 "poach", "rustle", "shoplift",
